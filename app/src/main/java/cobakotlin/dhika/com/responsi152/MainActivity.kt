@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
 
         to_reg.setOnClickListener{
             intent = Intent(this, RegisterActivity::class.java)
+            //hjhjhj
             startActivity(intent)
         }
     }
