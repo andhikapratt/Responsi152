@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(this, RegisterActivity::class.java)
             //hjhjhj
             //hnhn
+            //hahahaha
             startActivity(intent)
         }
     }
